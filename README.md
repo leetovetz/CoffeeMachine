@@ -1,5 +1,6 @@
 # CoffeeMachine
-Coffee Machine project in Java. From JetBrains Academy (hyperskill.org).<br>
+Coffee Machine project in Java. <br>
+From JetBrains Academy (hyperskill.org).<br>
 
 **About**<br>
 What can be better than a cup of coffee during a break? <br>
