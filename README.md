@@ -1,7 +1,7 @@
 # CoffeeMachine
 Coffee Machine project in Java. From JetBrains Academy (hyperskill.org).<br>
 
-About<br>
+**About**<br>
 What can be better than a cup of coffee during a break? <br>
 A coffee that you don’t have to make yourself. <br>
 It’s enough to press a couple of buttons on the machine <br>
@@ -14,7 +14,7 @@ it shows a notification. You can get three types of coffee: <br>
 espresso, cappuccino and latte. Since nothing’s for free, <br>
 it also collects the money.<br>
 
-Thoughts<br>
+**Thoughts**<br>
 Project evolves through six stages, starting <br>
 with just printing out the steps of making a coffee, <br>
 through adding in water, milk, beans fields, <br>
