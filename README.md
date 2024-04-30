@@ -26,6 +26,3 @@ Overall, a good project to work through.<br>
 
 https://hyperskill.org/projects/33?track=8
 ## 
-
-
-
